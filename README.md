@@ -1,6 +1,6 @@
 ## <strong>Bernardo Alves Padilha</strong>
 
-
+![BERNARDO PADILHA 1](https://i.postimg.cc/jdbn7m0p/banner.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bernardo%20Padilha-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-alves-padilha-8474a3232/)](https://www.linkedin.com/in/bernardo-alves-padilha-8474a3232/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato@bernardopadilha.com.br-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@bernardopadilha.com.br)](mailto:contato@bernardopadilha.com.br)
